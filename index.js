@@ -6,6 +6,12 @@ const client = new Discord.Client();
 const config = require('./config.json');
 
 client.config = config;
+client.enmap = Enmap
+
+// Inventory Creation, handled within guildMemberAdd.js
+
+client.inventory = new Enmap();
+client.stats = new Enmap();
 
 //Reading the "Events Folder" to be able to trigger said events
 
