@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/braxtinc/dungeon-delver#readme",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "better-sqlite-pool": "^0.2.2",
+    "discord.js": "^11.5.1",
+    "enmap": "^5.0.0"
   }
 }
