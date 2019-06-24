@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/braxtinc/dungeon-delver/issues"
   },
-  "homepage": "https://github.com/braxtinc/dungeon-delver#readme"
+  "homepage": "https://github.com/braxtinc/dungeon-delver#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
