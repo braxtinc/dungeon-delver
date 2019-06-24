@@ -1,0 +1,19 @@
+{
+  "name": "dungeon-bot",
+  "version": "1.0.0",
+  "description": "This is a discord Bot created to server as a \"Dungeon Master\" and as well aid in providing tools for Dungeon masters to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braxtinc/dungeon-delver.git"
+  },
+  "author": "Brad Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braxtinc/dungeon-delver/issues"
+  },
+  "homepage": "https://github.com/braxtinc/dungeon-delver#readme"
+}
